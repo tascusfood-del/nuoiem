@@ -7,7 +7,6 @@ import { Component, ChangeDetectionStrategy } from '@angular/core';
   template: `
     <section>
       <div class="text-center mb-12">
-        <h2 class="text-yellow-500 font-bold tracking-widest uppercase mb-2">Section 4</h2>
         <h3 class="text-3xl md:text-4xl font-bold text-white mb-4">TỪ 2025, KHÔNG CHỈ LÀ NUÔI CƠM</h3>
         <p class="text-slate-400 max-w-2xl mx-auto">
           Hơn cả việc cho Huyền một bữa ăn, dự án "Nuôi Huyền" còn nhắm tới việc giữ cho nô lệ tư bản này trông vẫn còn "người", không xuống cấp toàn diện.

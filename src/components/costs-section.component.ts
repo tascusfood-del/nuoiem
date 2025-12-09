@@ -10,7 +10,6 @@ import { Component, ChangeDetectionStrategy } from '@angular/core';
         
         <!-- Text Content -->
         <div class="flex flex-col justify-center">
-           <h2 class="text-yellow-500 font-bold tracking-widest uppercase mb-2">Section 3</h2>
            <h3 class="text-3xl font-bold text-white mb-6">SỐ TIỀN NUÔI CƠM</h3>
            <p class="text-slate-400 mb-8">
              Đầu tư vào con người là khoản đầu tư mạo hiểm nhưng có thể sinh lời (bằng tình cảm) hoặc lỗ vốn (nếu nó dỗi).

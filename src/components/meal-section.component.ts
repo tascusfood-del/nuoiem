@@ -9,7 +9,6 @@ import { NgOptimizedImage } from '@angular/common';
   template: `
     <section class="flex flex-col md:flex-row gap-8 items-center">
       <div class="w-full md:w-1/2">
-        <h2 class="text-yellow-500 font-bold tracking-widest uppercase mb-2">Section 1</h2>
         <h3 class="text-3xl font-bold text-white mb-6">BỮA CƠM NÍU CHÂN <br/> NÔ LỆ TƯ BẢN TỚI... VĂN PHÒNG</h3>
         
         <div class="bg-slate-800 p-6 rounded-2xl border border-slate-700 shadow-xl mb-6">

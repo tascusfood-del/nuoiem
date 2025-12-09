@@ -8,7 +8,6 @@ import { NgOptimizedImage } from '@angular/common';
   imports: [NgOptimizedImage],
   template: `
     <section class="py-12">
-      <h2 class="text-center text-yellow-500 font-bold tracking-widest uppercase mb-2">Section 2</h2>
       <h3 class="text-center text-3xl font-bold text-white mb-12">ĐỐI TƯỢNG ĐƯỢC NUÔI</h3>
 
       <div class="relative bg-slate-800 rounded-3xl overflow-hidden shadow-2xl border border-slate-700 max-w-3xl mx-auto">
